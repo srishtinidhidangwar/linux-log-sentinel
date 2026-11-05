@@ -2,7 +2,7 @@
 
 A Python host-based intrusion detection tool that parses Linux system logs, detects security events, and produces a **fully offline SOC dashboard** sealed with a SHA256 hash. Built as an M.Sc. Digital Forensics & Information Security minor project at the National Forensic Sciences University (NFSU), Gandhinagar.
 
-![CI](https://github.com/<your-username>/linux-log-sentinel/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/srishtinidhidangwar/linux-log-sentinel/actions/workflows/ci.yml/badge.svg)
 
 ## Features
 
@@ -16,7 +16,7 @@ A Python host-based intrusion detection tool that parses Linux system logs, dete
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/linux-log-sentinel.git
+git clone https://github.com/srishtinidhidangwar/linux-log-sentinel.git
 cd linux-log-sentinel
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
