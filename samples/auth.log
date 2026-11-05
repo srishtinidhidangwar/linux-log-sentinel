@@ -1,0 +1,12 @@
+2026-04-11T03:05:00.000000+05:30 kali sshd[9800]: Failed password for root from 203.0.113.50 port 40000 ssh2
+2026-04-11T03:05:04.000000+05:30 kali sshd[9801]: Failed password for root from 203.0.113.50 port 40001 ssh2
+2026-04-11T03:05:08.000000+05:30 kali sshd[9802]: Failed password for root from 203.0.113.50 port 40002 ssh2
+2026-04-11T03:05:12.000000+05:30 kali sshd[9803]: Failed password for root from 203.0.113.50 port 40003 ssh2
+2026-04-11T03:05:16.000000+05:30 kali sshd[9804]: Failed password for root from 203.0.113.50 port 40004 ssh2
+2026-04-11T03:05:20.000000+05:30 kali sshd[9805]: Failed password for root from 198.51.100.7 port 40005 ssh2
+2026-04-11T03:05:24.000000+05:30 kali sshd[9806]: Failed password for root from 198.51.100.7 port 40006 ssh2
+2026-04-11T09:05:00.000000+05:30 kali sshd[9900]: Accepted password for kali from 192.168.1.20 port 51234 ssh2
+2026-04-11T09:05:00.000000+05:30 kali login[1100]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 rhost= user=kali
+2026-04-11T09:05:00.000000+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/apt update
+2026-04-11T09:05:00.000000+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/nmap -sV 10.0.0.5
+2026-04-11T09:05:00.000000+05:30 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by kali(uid=1000)

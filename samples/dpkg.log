@@ -1,0 +1,10 @@
+2026-04-11 10:22:46 install steghide:amd64 <none> 0.5.1-15
+2026-04-11 10:22:59 status installed steghide:amd64 0.5.1-15
+2026-04-11 10:22:53 install foremost:amd64 <none> 1.5.7-11
+2026-04-11 10:22:59 status installed foremost:amd64 1.5.7-11
+2026-04-11 10:22:38 install curl:amd64 <none> 8.5.0-2
+2026-04-11 10:22:59 status installed curl:amd64 8.5.0-2
+2026-04-11 10:22:28 install htop:amd64 <none> 3.3.0-1
+2026-04-11 10:22:59 status installed htop:amd64 3.3.0-1
+2026-04-11 11:05:01 upgrade openssl:amd64 3.0.13-1 3.0.14-1
+2026-04-11 11:05:09 remove libfoo1:all 1.0-1 <none>

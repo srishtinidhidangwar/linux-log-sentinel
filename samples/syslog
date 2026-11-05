@@ -1,0 +1,135 @@
+2026-04-11T00:07:00.000000+05:30 kali systemd[1]: Started Session 0 of User kali.
+2026-04-11T00:07:00.000000+05:30 kali CRON[2000]: (root) CMD (command -v debian-sa1)
+2026-04-11T00:13:00.000000+05:30 kali systemd[1]: Started Session 1 of User kali.
+2026-04-11T00:22:00.000000+05:30 kali systemd[1]: Started Session 2 of User kali.
+2026-04-11T00:31:00.000000+05:30 kali systemd[1]: Started Session 3 of User kali.
+2026-04-11T00:33:00.000000+05:30 kali systemd[1]: Started Session 4 of User kali.
+2026-04-11T00:40:00.000000+05:30 kali systemd[1]: Started Session 5 of User kali.
+2026-04-11T00:51:00.000000+05:30 kali systemd[1]: Started Session 6 of User kali.
+2026-04-11T00:54:00.000000+05:30 kali systemd[1]: Started Session 7 of User kali.
+2026-04-11T01:03:00.000000+05:30 kali systemd[1]: Started Session 8 of User kali.
+2026-04-11T01:12:00.000000+05:30 kali systemd[1]: Started Session 9 of User kali.
+2026-04-11T01:12:00.000000+05:30 kali CRON[2009]: (root) CMD (command -v debian-sa1)
+2026-04-11T01:15:00.000000+05:30 kali systemd[1]: Started Session 10 of User kali.
+2026-04-11T01:26:00.000000+05:30 kali systemd[1]: Started Session 11 of User kali.
+2026-04-11T01:30:00.000000+05:30 kali systemd[1]: Started Session 12 of User kali.
+2026-04-11T01:36:00.000000+05:30 kali systemd[1]: Started Session 13 of User kali.
+2026-04-11T01:43:00.000000+05:30 kali systemd[1]: Started Session 14 of User kali.
+2026-04-11T01:53:00.000000+05:30 kali systemd[1]: Started Session 15 of User kali.
+2026-04-11T02:00:00.000000+05:30 kali systemd[1]: Started Session 16 of User kali.
+2026-04-11T02:04:00.000000+05:30 kali systemd[1]: Started Session 17 of User kali.
+2026-04-11T02:12:00.000000+05:30 kali systemd[1]: Started Session 18 of User kali.
+2026-04-11T02:12:00.000000+05:30 kali CRON[2018]: (root) CMD (command -v debian-sa1)
+2026-04-11T02:18:00.000000+05:30 kali systemd[1]: Started Session 19 of User kali.
+2026-04-11T02:29:00.000000+05:30 kali systemd[1]: Started Session 20 of User kali.
+2026-04-11T02:35:00.000000+05:30 kali systemd[1]: Started Session 21 of User kali.
+2026-04-11T02:39:00.000000+05:30 kali systemd[1]: Started Session 22 of User kali.
+2026-04-11T02:50:00.000000+05:30 kali systemd[1]: Started Session 23 of User kali.
+2026-04-11T02:53:00.000000+05:30 kali systemd[1]: Started Session 24 of User kali.
+2026-04-11T03:01:00.000000+05:30 kali systemd[1]: Started Session 25 of User kali.
+2026-04-11T03:12:00.000000+05:30 kali systemd[1]: Started Session 26 of User kali.
+2026-04-11T03:19:00.000000+05:30 kali systemd[1]: Started Session 27 of User kali.
+2026-04-11T03:19:00.000000+05:30 kali CRON[2027]: (root) CMD (command -v debian-sa1)
+2026-04-11T03:25:00.000000+05:30 kali systemd[1]: Started Session 28 of User kali.
+2026-04-11T03:28:00.000000+05:30 kali systemd[1]: Started Session 29 of User kali.
+2026-04-11T03:39:00.000000+05:30 kali systemd[1]: Started Session 30 of User kali.
+2026-04-11T03:46:00.000000+05:30 kali systemd[1]: Started Session 31 of User kali.
+2026-04-11T03:52:00.000000+05:30 kali systemd[1]: Started Session 32 of User kali.
+2026-04-11T03:56:00.000000+05:30 kali systemd[1]: Started Session 33 of User kali.
+2026-04-11T04:04:00.000000+05:30 kali systemd[1]: Started Session 34 of User kali.
+2026-04-11T04:10:00.000000+05:30 kali systemd[1]: Started Session 35 of User kali.
+2026-04-11T04:21:00.000000+05:30 kali systemd[1]: Started Session 36 of User kali.
+2026-04-11T04:21:00.000000+05:30 kali CRON[2036]: (root) CMD (command -v debian-sa1)
+2026-04-11T04:25:00.000000+05:30 kali systemd[1]: Started Session 37 of User kali.
+2026-04-11T04:33:00.000000+05:30 kali systemd[1]: Started Session 38 of User kali.
+2026-04-11T04:41:00.000000+05:30 kali systemd[1]: Started Session 39 of User kali.
+2026-04-11T04:46:00.000000+05:30 kali systemd[1]: Started Session 40 of User kali.
+2026-04-11T04:56:00.000000+05:30 kali systemd[1]: Started Session 41 of User kali.
+2026-04-11T04:59:00.000000+05:30 kali systemd[1]: Started Session 42 of User kali.
+2026-04-11T05:10:00.000000+05:30 kali systemd[1]: Started Session 43 of User kali.
+2026-04-11T05:15:00.000000+05:30 kali systemd[1]: Started Session 44 of User kali.
+2026-04-11T05:24:00.000000+05:30 kali systemd[1]: Started Session 45 of User kali.
+2026-04-11T05:24:00.000000+05:30 kali CRON[2045]: (root) CMD (command -v debian-sa1)
+2026-04-11T05:32:00.000000+05:30 kali systemd[1]: Started Session 46 of User kali.
+2026-04-11T05:35:00.000000+05:30 kali systemd[1]: Started Session 47 of User kali.
+2026-04-11T05:41:00.000000+05:30 kali systemd[1]: Started Session 48 of User kali.
+2026-04-11T05:52:00.000000+05:30 kali systemd[1]: Started Session 49 of User kali.
+2026-04-11T05:59:00.000000+05:30 kali systemd[1]: Started Session 50 of User kali.
+2026-04-11T06:07:00.000000+05:30 kali systemd[1]: Started Session 51 of User kali.
+2026-04-11T06:10:00.000000+05:30 kali systemd[1]: Started Session 52 of User kali.
+2026-04-11T06:18:00.000000+05:30 kali systemd[1]: Started Session 53 of User kali.
+2026-04-11T06:23:00.000000+05:30 kali systemd[1]: Started Session 54 of User kali.
+2026-04-11T06:23:00.000000+05:30 kali CRON[2054]: (root) CMD (command -v debian-sa1)
+2026-04-11T06:34:00.000000+05:30 kali systemd[1]: Started Session 55 of User kali.
+2026-04-11T06:42:00.000000+05:30 kali systemd[1]: Started Session 56 of User kali.
+2026-04-11T06:44:00.000000+05:30 kali systemd[1]: Started Session 57 of User kali.
+2026-04-11T06:55:00.000000+05:30 kali systemd[1]: Started Session 58 of User kali.
+2026-04-11T06:58:00.000000+05:30 kali systemd[1]: Started Session 59 of User kali.
+2026-04-11T07:09:00.000000+05:30 kali systemd[1]: Started Session 60 of User kali.
+2026-04-11T07:13:00.000000+05:30 kali systemd[1]: Started Session 61 of User kali.
+2026-04-11T07:22:00.000000+05:30 kali systemd[1]: Started Session 62 of User kali.
+2026-04-11T07:31:00.000000+05:30 kali systemd[1]: Started Session 63 of User kali.
+2026-04-11T07:31:00.000000+05:30 kali CRON[2063]: (root) CMD (command -v debian-sa1)
+2026-04-11T07:37:00.000000+05:30 kali systemd[1]: Started Session 64 of User kali.
+2026-04-11T07:43:00.000000+05:30 kali systemd[1]: Started Session 65 of User kali.
+2026-04-11T07:49:00.000000+05:30 kali systemd[1]: Started Session 66 of User kali.
+2026-04-11T07:57:00.000000+05:30 kali systemd[1]: Started Session 67 of User kali.
+2026-04-11T08:05:00.000000+05:30 kali systemd[1]: Started Session 68 of User kali.
+2026-04-11T08:11:00.000000+05:30 kali systemd[1]: Started Session 69 of User kali.
+2026-04-11T08:17:00.000000+05:30 kali systemd[1]: Started Session 70 of User kali.
+2026-04-11T08:24:00.000000+05:30 kali systemd[1]: Started Session 71 of User kali.
+2026-04-11T08:30:00.000000+05:30 kali systemd[1]: Started Session 72 of User kali.
+2026-04-11T08:30:00.000000+05:30 kali CRON[2072]: (root) CMD (command -v debian-sa1)
+2026-04-11T08:37:00.000000+05:30 kali systemd[1]: Started Session 73 of User kali.
+2026-04-11T08:48:00.000000+05:30 kali systemd[1]: Started Session 74 of User kali.
+2026-04-11T08:51:00.000000+05:30 kali systemd[1]: Started Session 75 of User kali.
+2026-04-11T08:57:00.000000+05:30 kali systemd[1]: Started Session 76 of User kali.
+2026-04-11T09:08:00.000000+05:30 kali systemd[1]: Started Session 77 of User kali.
+2026-04-11T09:13:00.000000+05:30 kali systemd[1]: Started Session 78 of User kali.
+2026-04-11T09:22:00.000000+05:30 kali systemd[1]: Started Session 79 of User kali.
+2026-04-11T09:28:00.000000+05:30 kali systemd[1]: Started Session 80 of User kali.
+2026-04-11T09:34:00.000000+05:30 kali systemd[1]: Started Session 81 of User kali.
+2026-04-11T09:34:00.000000+05:30 kali CRON[2081]: (root) CMD (command -v debian-sa1)
+2026-04-11T09:44:00.000000+05:30 kali systemd[1]: Started Session 82 of User kali.
+2026-04-11T09:49:00.000000+05:30 kali systemd[1]: Started Session 83 of User kali.
+2026-04-11T09:55:00.000000+05:30 kali systemd[1]: Started Session 84 of User kali.
+2026-04-11T10:04:00.000000+05:30 kali systemd[1]: Started Session 85 of User kali.
+2026-04-11T10:07:00.000000+05:30 kali systemd[1]: Started Session 86 of User kali.
+2026-04-11T10:14:00.000000+05:30 kali systemd[1]: Started Session 87 of User kali.
+2026-04-11T10:25:00.000000+05:30 kali systemd[1]: Started Session 88 of User kali.
+2026-04-11T10:31:00.000000+05:30 kali systemd[1]: Started Session 89 of User kali.
+2026-04-11T10:36:00.000000+05:30 kali systemd[1]: Started Session 90 of User kali.
+2026-04-11T10:36:00.000000+05:30 kali CRON[2090]: (root) CMD (command -v debian-sa1)
+2026-04-11T10:44:00.000000+05:30 kali systemd[1]: Started Session 91 of User kali.
+2026-04-11T10:50:00.000000+05:30 kali systemd[1]: Started Session 92 of User kali.
+2026-04-11T10:59:00.000000+05:30 kali systemd[1]: Started Session 93 of User kali.
+2026-04-11T11:06:00.000000+05:30 kali systemd[1]: Started Session 94 of User kali.
+2026-04-11T11:10:00.000000+05:30 kali systemd[1]: Started Session 95 of User kali.
+2026-04-11T11:22:00.000000+05:30 kali systemd[1]: Started Session 96 of User kali.
+2026-04-11T11:24:00.000000+05:30 kali systemd[1]: Started Session 97 of User kali.
+2026-04-11T11:35:00.000000+05:30 kali systemd[1]: Started Session 98 of User kali.
+2026-04-11T11:42:00.000000+05:30 kali systemd[1]: Started Session 99 of User kali.
+2026-04-11T11:42:00.000000+05:30 kali CRON[2099]: (root) CMD (command -v debian-sa1)
+2026-04-11T11:47:00.000000+05:30 kali systemd[1]: Started Session 100 of User kali.
+2026-04-11T11:54:00.000000+05:30 kali systemd[1]: Started Session 101 of User kali.
+2026-04-11T12:04:00.000000+05:30 kali systemd[1]: Started Session 102 of User kali.
+2026-04-11T12:08:00.000000+05:30 kali systemd[1]: Started Session 103 of User kali.
+2026-04-11T12:17:00.000000+05:30 kali systemd[1]: Started Session 104 of User kali.
+2026-04-11T12:23:00.000000+05:30 kali systemd[1]: Started Session 105 of User kali.
+2026-04-11T12:31:00.000000+05:30 kali systemd[1]: Started Session 106 of User kali.
+2026-04-11T12:37:00.000000+05:30 kali systemd[1]: Started Session 107 of User kali.
+2026-04-11T12:41:00.000000+05:30 kali systemd[1]: Started Session 108 of User kali.
+2026-04-11T12:41:00.000000+05:30 kali CRON[2108]: (root) CMD (command -v debian-sa1)
+2026-04-11T12:48:00.000000+05:30 kali systemd[1]: Started Session 109 of User kali.
+2026-04-11T12:57:00.000000+05:30 kali systemd[1]: Started Session 110 of User kali.
+2026-04-11T13:05:00.000000+05:30 kali systemd[1]: Started Session 111 of User kali.
+2026-04-11T13:14:00.000000+05:30 kali systemd[1]: Started Session 112 of User kali.
+2026-04-11T13:21:00.000000+05:30 kali systemd[1]: Started Session 113 of User kali.
+2026-04-11T13:23:00.000000+05:30 kali systemd[1]: Started Session 114 of User kali.
+2026-04-11T13:30:00.000000+05:30 kali systemd[1]: Started Session 115 of User kali.
+2026-04-11T13:42:00.000000+05:30 kali systemd[1]: Started Session 116 of User kali.
+2026-04-11T13:49:00.000000+05:30 kali systemd[1]: Started Session 117 of User kali.
+2026-04-11T13:49:00.000000+05:30 kali CRON[2117]: (root) CMD (command -v debian-sa1)
+2026-04-11T13:53:00.000000+05:30 kali systemd[1]: Started Session 118 of User kali.
+2026-04-11T14:03:00.000000+05:30 kali systemd[1]: Started Session 119 of User kali.
+2026-04-11T14:05:00.000000+05:30 kali systemd-sleep[3100]: System is suspending (PM: suspend entry).
